@@ -43,7 +43,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "e282e2e4",
    "metadata": {},
    "outputs": [],
@@ -51,7 +51,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "458d83ac",
    "metadata": {},
    "outputs": [],
